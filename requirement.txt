@@ -1,3 +1,0 @@
-Flask
-google-generativeai
-Flask-Cors
